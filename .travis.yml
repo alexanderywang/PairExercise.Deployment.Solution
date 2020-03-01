@@ -22,7 +22,7 @@ deploy: # see README for details on these keys
   skip_cleanup: true
   provider: heroku
   # app should be your heroku app name; see README
-  app: async-week--heroku-app
+  app: my8thattempt
   # the secure key indicates an encrypted value; see README
   api_key:
-    secure: 
+    secure:
