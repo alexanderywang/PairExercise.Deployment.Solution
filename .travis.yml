@@ -25,4 +25,4 @@ deploy: # see README for details on these keys
   app: my8thattempt
   # the secure key indicates an encrypted value; see README
   api_key:
-    secure:
+    secure: v3LZZ8lHgLyMQjZGPOizpqFdVqose6O1E6iSngWloU+xjD94WIbuizTuiSJbY1+eG7WbA5qt5YI9raHisUye6vHouvHAehqbyg482rMvWqTbewPAdafUUTvRT0aaZ2smUNNw5IMlsF2+YXcXctOucFk54H7YFMX8/uGTpXEJdBveCWhWm30x/DvECgM/VjkmF/RgkGVfx+RKv+HuoSPX+2PvMV6Up7UnrY3Jd/abYdzJw9hfFOL0OkCh057c/XQsxb7+dNqxGb440vIofTnFiRhk6pNQxSeh3QKgZOOcy8nKnmDI/6aU0nwh89/2ZWXDKokOmG4YrVKHTiewtTd1VetFgamvvsuadtzyKiQi+wknksd54vieclQYcWDmn4LNfpYFUMfoK47vjEeqVbmjQd2VOsCmzDXSXA7yLbquaZxbFNbfl/HoHaw5dYG3sDZcZQmYGOF8TGs+b+UKIz4PQYxGLcK6yAU+9ANbG3Xsfad8Wx4GQZJndraeltFxB1sLEZ9DbHdJ5YEFz/W40HRON0P5+JcWyQlM5y/OnmX4WVJK479+CV8dB5pQ2baisc+LIvJNzlP01GhUYe2sNpHBAxYr38X4dZlUjZGOSvrZaRj7pe4eQSbTjAzv0mQAPnaOsf391lKsLj+PcjInd7Cr0+J7fO+3iVWNOsVdiqZm7os=
