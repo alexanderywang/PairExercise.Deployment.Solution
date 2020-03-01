@@ -25,4 +25,4 @@ deploy: # see README for details on these keys
   app: async-week--heroku-app
   # the secure key indicates an encrypted value; see README
   api_key:
-    secure: LH8RXBTxLYG8+EpM6DbxLnRbJb43bwz08fL60hEbgPGYv3WM6i/ZhMTem9XO55YPFz1+KCAHggbtmo07ogdhOOhTeEYlPGP80JOxqoFJjIEtgmc1S4M+glVFGiiLINpF++uYTCugUbCOsamngdCoupkB4TzJBXlea2UfC2UlHCOg9LnUAyWlY6RbqJGmRbo0eKIrpi4OqE3P59M0jU9SqrU9RsNU/TjeGT6ddSIb/fanONYKQAH3V34kQ3ykc8L7BKmnOOUHnMo8fhGxOA5kRJCXsAxesVriOBi6Fetz9VrwPjXDR16PJOap9cDdl3UOLSY+7hkzZsRJJvCBIlVel5vDORD0fa0e3GlcVNG6FhAemQEMqD/y9C5dTedyoVYlTckLD383jbud5rtP4l4CQsbm0+3VC//ilKx4LIoh9gUIztLvNA/igkYE18D5L9ma8qsR9951qdvLmZkwmwv26h8x/8WBW7up34DbiA1u5G9Cq6nBx+1wEcrX6sqZuw2xXs7HHfJ3qYo1r+ZPzPygnNXMVDyCujBdsfc2hE6WlXg20GWzOrPRUBIIon1eheJDlE8XWRSinvFsnhDMDaOis5KzeQgvc/oBwgSxbIlQCFPql2uZ+DTenHZNX4XFHBvgI7i9KxVq2x3I/CauqUMpFRy9GnC/Eip9DLfOk3OFUqA=
+    secure: 
